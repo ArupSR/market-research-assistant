@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+requests
+pytrends
+yfinance
+pinecone-client
+openai
+streamlit
